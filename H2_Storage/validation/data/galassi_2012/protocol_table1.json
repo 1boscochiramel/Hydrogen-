@@ -1,0 +1,16 @@
+{
+    "H2_101": {
+        "Pin_bar": 0.26,
+        "Pfin_bar": 717,
+        "t_fill_s": 330,
+        "Tamb_C": 16,
+        "Tini_C": 21
+    },
+    "H2_250": {
+        "Pin_bar": 0.26,
+        "Pfin_bar": 718,
+        "t_fill_s": 245,
+        "Tamb_C": 18,
+        "Tini_C": 21
+    }
+}
